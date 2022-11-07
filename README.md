@@ -1,4 +1,4 @@
-# Reviews project
+# Add a review with Python3 and Django
 
 Learning `python3` and understanding basic `django` by creating project and following the Udemy course
 [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/)
